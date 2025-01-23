@@ -16,15 +16,15 @@
 
 
 # 预览
-首页
+### 首页
 <img src="images/video-home.jpeg" alt="草鸡视频-首页"/>   
 
-视频搜索
+### 视频搜索
 <img src="images/search.png" alt="草鸡视频-视频搜索"/> 
 
-视频详情
+### 视频详情
 <img src="images/video-detail.jpeg" alt="草鸡视频-视频详情"/>   
 
-视频播放
+### 视频播放
 <img src="images/video-play.jpeg" alt="草鸡视频-视频详情"/>   
 
